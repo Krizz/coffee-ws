@@ -1,0 +1,13 @@
+{
+  "name": "coffee-ws",
+  "version": "0.0.0",
+  "main": "lib/coffee-ws.js",
+  "description": "Coffeescript wrapper for ws",
+  "dependencies": {
+    "async": "~0.2.7",
+    "ws": "*"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.2"
+  }
+}
